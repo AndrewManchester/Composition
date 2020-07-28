@@ -3,7 +3,7 @@ Created using composition.
 
 Composition allows for protected (hidden) methods.
 
-Points has no protect methods at t# Compositionhe second
+Points has no protect methods at the second
 so add one 
 
   const hide = () => console.log("Hidden")
