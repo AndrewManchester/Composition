@@ -28,4 +28,5 @@ Exercising dump and dumpToArray shows hide is being executed. Calls to just hide
 
     var p = Path(Point(4,5),Point(6,7))
     p.addPoint(Point(77,88))
-    p.dumpToArray() p.addPoint(Point(1,2)).addPoint(Point(3,7)) //does not work
+    p.dumpToArray() 
+    p.addPoint(Point(1,2)).addPoint(Point(3,7)) //does not work
